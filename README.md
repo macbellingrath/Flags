@@ -4,9 +4,9 @@ A game where users are asked to guess the flag belonging to a particular country
 ###Learning Goals ###
 <ul>
     <li>Learn about UIKit</li>
-    <li>Practice using integers, doubles, floats, operators </li>
+    <li>Practice using integers, doubles, floats, and operators </li>
     <li>Learn about using CALayer to manipulate how views are displayed</li>
-    <li>Use arc4random_unifrom to make game less predictable </li>
+    <li>Use arc4random_uniform to make game less predictable </li>
     <li>Practice implementing UIAlertController</li>
     <li>Use progress view to convey progress to user </li> 
 </ul>
